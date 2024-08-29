@@ -1,0 +1,421 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "newStyleAsUsercss": true,
+      "styleViaASS": false,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "urlInstaller": true,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "system",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "u",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": false,
+      "manage.newUI.faviconsGray": true,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "manage.searchMode": "meta",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "default",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "space_around_combinator": true,
+        "space_around_cmp": false
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.livePreview.delay": 0.2,
+      "editor.targetsFirst": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": -1,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popup.search.globals": false,
+      "popupWidth": 246,
+      "popupWidthMax": 280,
+      "updateInterval": 24,
+      "updateOnlyEnabled": false,
+      "popup.breadcrumbs": true,
+      "popup.breadcrumbs.usePath": false
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": true,
+    "installDate": 1686935836856,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           github.com - 6/16/2023, 7:16:24 PM\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"github.com\") {\n    /* Insert code here... */\n    .container-xl { max-width: 1800px !important; }\n}",
+    "usercssData": {
+      "name": "github.com - 6/16/2023, 7:16:24 PM",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "github.com - 6/16/2023, 7:16:24 PM",
+    "updateDate": 1686935902287,
+    "_id": "7209c32a-20b5-4538-8580-a2bac3cd800e",
+    "_rev": 1724959665414,
+    "id": 1
+  },
+  {
+    "enabled": true,
+    "installDate": 1688071467953,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           airs.com - 6/29/2023, 10:43:57 PM\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"airs.com\") {\nhtml > body #content {\n  width: 100%;\n  padding: 30px;\n  display: block;\n  box-sizing: border-box;\n}\n\n#wrapper {\n  margin: 0 auto;\n  width: 70%;\n  background-color: #FFF;\n  text-align: left;\n}\n    #sidebar { display: none; }\n}",
+    "usercssData": {
+      "name": "airs.com - 6/29/2023, 10:43:57 PM",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "airs.com - 6/29/2023, 10:43:57 PM",
+    "updateDate": 1688071531483,
+    "_id": "e30a98fc-c42c-4c40-85c1-bb38b44b48d1",
+    "_rev": 1724960087699,
+    "id": 2
+  },
+  {
+    "enabled": true,
+    "installDate": 1697273744285,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           www.apollographql.com - 10/14/2023, 10:54:49 AM\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://www.apollographql.com/docs\") {\n    html { --docs-page-width: 1420px !important; }\n    #onetrust-consent-sdk { display: none}\n}",
+    "usercssData": {
+      "name": "www.apollographql.com - 10/14/2023, 10:54:49 AM",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "www.apollographql.com - 10/14/2023, 10:54:49 AM",
+    "updateDate": 1724960252426,
+    "_id": "744965e1-152c-4a69-bf2c-d72971154364",
+    "_rev": 1724960252426,
+    "id": 3
+  },
+  {
+    "enabled": true,
+    "installDate": 1705863686532,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           stackoverflow.com - Jan 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"stackoverflow.com\") {\n#mainbar, .mainbar {\n  width: calc(100% - var(--su-static24));\n}\n    #credential_picker_container { display: none; }\n    #onetrust-consent-sdk { display: none; }\n}",
+    "usercssData": {
+      "name": "stackoverflow.com - Jan 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "stackoverflow.com - Jan 2024",
+    "updateDate": 1724961586127,
+    "_id": "27dfbab8-b229-4042-be40-6370981b6008",
+    "_rev": 1724961615420,
+    "id": 4
+  },
+  {
+    "enabled": true,
+    "installDate": 1714388868200,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           www.crummy.com/software/BeautifulSoup/bs4/doc/ - Apr 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://www.crummy.com/software/BeautifulSoup/bs4/doc/\") {\n    div.body { max-width: 1600px; }\n    div.sphinxsidebar { max-width: 350px; }\n    div.bodywrapper { margin-left: 350px; }\n}",
+    "usercssData": {
+      "name": "www.crummy.com/software/BeautifulSoup/bs4/doc/ - Apr 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "www.crummy.com/software/BeautifulSoup/bs4/doc/ - Apr 2024",
+    "updateDate": 1714388966028,
+    "_id": "c150caec-e1d1-4dc4-818a-29a2860197fb",
+    "_rev": 1714388966028,
+    "id": 6
+  },
+  {
+    "enabled": true,
+    "installDate": 1714831185033,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-2 - May 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://xillybus.com/tutorials/\") {\n    /* Insert code here... */\n    #sidebar-primary { display: none}\n    #content { width: 98.5% !important; }\n    #content pre { width: 50%; margin: 0px auto; }\n    #page { width: 1600px; }\n}",
+    "usercssData": {
+      "name": "xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-2 - May 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-2 - May 2024",
+    "updateDate": 1714832050704,
+    "_id": "257cdc44-6179-4368-a99c-27d698057119",
+    "_rev": 1714832050704,
+    "id": 7
+  },
+  {
+    "enabled": true,
+    "installDate": 1715199517015,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           airbus-seclab.github.io - May 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"airbus-seclab.github.io\") {\n    /* Insert code here... */\n    header, footer { display: none;}\n    .wrapper { width: 1200px; }\n    section { width: 100%; }\n}",
+    "usercssData": {
+      "name": "airbus-seclab.github.io - May 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "airbus-seclab.github.io - May 2024",
+    "updateDate": 1715199548688,
+    "_id": "f31d98ef-131c-42b9-9f3d-ebc18ed8ef3c",
+    "_rev": 1715199548688,
+    "id": 8
+  },
+  {
+    "enabled": false,
+    "installDate": 1715524265063,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           github.com/luizinhosuraty/pciemu/blob/master/src/sw/kernel/pciemu_module.c - May 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://github.com/luizinhosuraty/pciemu/blob/master/src/\") {\n    .react-code-text { font-size: 16px; line-height: unset;}\n    #read-only-cursor-text-area { font-size: 16px!important;}\n    /* Insert code here... */\n}",
+    "usercssData": {
+      "name": "github.com/luizinhosuraty/pciemu/blob/master/src/sw/kernel/pciemu_module.c - May 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "github.com/luizinhosuraty/pciemu/blob/master/src/sw/kernel/pciemu_module.c - May 2024",
+    "updateDate": 1715531476663,
+    "_id": "5cf18b51-9ea1-4963-8995-29fa98379e2d",
+    "_rev": 1724959869205,
+    "id": 9
+  },
+  {
+    "enabled": true,
+    "installDate": 1716799474826,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           medium.com - May 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"medium.com\") {\n    /* Insert code here... */\n    .gb { max-width: 1400px !important; }\n}",
+    "usercssData": {
+      "name": "medium.com - May 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "medium.com - May 2024",
+    "updateDate": 1716799474827,
+    "_id": "225f83a6-c4f2-42dd-9319-ca824db76492",
+    "_rev": 1716799474827,
+    "id": 10
+  },
+  {
+    "enabled": true,
+    "installDate": 1717531224022,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           news.ycombinator.com/item - Jun 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://news.ycombinator.com/item?id=40563283\") {\n    /* Insert code here... */\n    .coll { display: none; }\n}",
+    "usercssData": {
+      "name": "news.ycombinator.com/item - Jun 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "news.ycombinator.com/item - Jun 2024",
+    "updateDate": 1717531224022,
+    "_id": "c8e3aca5-6d20-479c-99cf-7f239a981dd4",
+    "_rev": 1717531224022,
+    "id": 11
+  },
+  {
+    "enabled": true,
+    "installDate": 1719400083168,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           secure.runescape.com/m=news/colosseum-npc-clickboxes--more - Jun 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://secure.runescape.com/m=news/\") {\n    /* Insert code here... */\n    .news .news-article-content { font-size: 1.2rem; line-height: 1.3rem; }\n    .page-wrap { width: 1400px; }\n    .content { background-size: 100%;}\n    #CybotCookiebotDialogBodyUnderlay { display: none;}\n    #CybotCookiebotDialog { display:none !important; }\n}",
+    "usercssData": {
+      "name": "secure.runescape.com/m=news/colosseum-npc-clickboxes--more - Jun 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "secure.runescape.com/m=news/colosseum-npc-clickboxes--more - Jun 2024",
+    "updateDate": 1724960190238,
+    "_id": "3836cda9-f794-4824-8297-16529d945dcf",
+    "_rev": 1724960190238,
+    "id": 12
+  },
+  {
+    "enabled": true,
+    "installDate": 1720105731917,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           claude.ai/chat/ad21f8ae-187b-4da5-b140-837b1b06ba5f - Jul 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://claude.ai/chat/\") {\n    /* Insert code here... */\n    .max-w-3xl { max-width: 68rem; }\n}",
+    "usercssData": {
+      "name": "claude.ai/chat/ad21f8ae-187b-4da5-b140-837b1b06ba5f - Jul 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "claude.ai/chat/ad21f8ae-187b-4da5-b140-837b1b06ba5f - Jul 2024",
+    "updateDate": 1720105739742,
+    "_id": "b5176998-38ed-48dd-9a07-2644d9943d98",
+    "_rev": 1720105739742,
+    "id": 13
+  },
+  {
+    "enabled": true,
+    "installDate": 1720108342411,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           kubernetes.io/docs/concepts/overview/ - Jul 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://kubernetes.io/docs/\") {\n    /* Insert code here... */\n    .td-toc { display: none !important;}\n    [role=\"main\"] { flex: 0 0 100%; max-width: 100%; }\n    .td-content > p { max-width: 95%; }\n}",
+    "usercssData": {
+      "name": "kubernetes.io/docs/concepts/overview/ - Jul 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "kubernetes.io/docs/concepts/overview/ - Jul 2024",
+    "updateDate": 1720108502341,
+    "_id": "22904980-6178-488d-aa60-5beab6c40699",
+    "_rev": 1720108502341,
+    "id": 14
+  }
+]
